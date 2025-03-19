@@ -40,7 +40,7 @@ MySQL Ver 8.4.4 for Linux on x86_64
 ### Rails の構成管理ツールの名前は何だったか
 
 - **Bundler**を利用して、Gem と呼ばれる外部ライブラリをまとめてインストールできる。
-  ![bundler](images\bundler-v2.3.14.png)
+  ![bundler](images/bundler-v2.3.14.png)
 
 ### 今回の課題から学んだこと
 
