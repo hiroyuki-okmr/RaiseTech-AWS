@@ -2,7 +2,7 @@
 
 ### サンプルアプリケーションの実行画面
 
-![アプリケーション実行](images\lecture03-SampleApp.png)
+![アプリケーション実行](images/lecture03-SampleApp.png)
 
 ### 今回実行したアプリケーションの AP サーバーの名前とバージョン
 
