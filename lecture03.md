@@ -2,31 +2,31 @@
 
 ### サンプルアプリケーションの実行画面
 
-![アプリケーション実行](images\lecture03-SampleApp.png)
+![アプリケーション実行](images/lecture03-SampleApp.png)
 
 ### 今回実行したアプリケーションの AP サーバーの名前とバージョン
 
 Puma Ver 6.4.2
 
-![APサーバーの名前とバージョン](images\Puma-v6.4.2.png)
+![APサーバーの名前とバージョン](images/Puma-v6.4.2.png)
 
-### DB サーバーの名前とバージョン
+###DB サーバーの名前とバージョン
 
 MySQL Ver 8.4.4 for Linux on x86_64
 
-![DBサーバーの名前とバージョン](images\mysql-v8.4.4.png)
+![DBサーバーの名前とバージョン](images/mysql-v8.4.4.png)
 
-### AP サーバーを終了させた場合、引き続きアクセスできるか
+###AP サーバーを終了させた場合、引き続きアクセスできるか
 
 アクセスできない事を確認した。
 
-![APサーバーを終了](images\ap_server-termination.png)
+![APサーバーを終了](images/ap_server-termination.png)
 
 ### DB サーバーを終了させた場合、どうなるか
 
 エラーが発生してアクセスが出来なくなる事を確認した。
 
-![DBサーバーを終了](images\mysql-shutdown.png)
+![DBサーバーを終了](images/mysql-shutdown.png)
 
 ### AP サーバーについて
 
@@ -37,7 +37,7 @@ MySQL Ver 8.4.4 for Linux on x86_64
 
 - システムが取り扱うデータを一元管理し、AP サーバーからの要求に基づいてデータの保存や更新などを行うデータベースを構築するために運用・管理を行うシステム
 
-### Rails の構成管理ツールの名前は何だったか。
+### Rails の構成管理ツールの名前は何だったか
 
 - **Bundler**を利用して、Gem と呼ばれる外部ライブラリをまとめてインストールできる。
   ![bundler](images\bundler-v2.3.14.png)
