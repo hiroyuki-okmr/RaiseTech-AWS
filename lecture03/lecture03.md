@@ -2,7 +2,7 @@
 
 ### サンプルアプリケーションの実行画面
 
-![アプリケーション実行](images/lecture03-SampleApp.png)
+![アプリケーション実行](images/lecture03-sample_app.png)
 
 ### 今回実行したアプリケーションの AP サーバーの名前とバージョン
 
@@ -26,7 +26,8 @@ MySQL Ver 8.4.4 for Linux on x86_64
 
 エラーが発生してアクセスが出来なくなる事を確認した。
 
-![DBサーバーを終了](images/mysql-shutdown.png)
+![DBサーバーを終了](images/mysql-inactive.png)
+![MySQLエラーを確認](images/cant-connect-mysql.png)
 
 ### AP サーバーについて
 
